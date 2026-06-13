@@ -1,0 +1,6 @@
+this is a test of the word printer
+it is also a line printer
+it does so by counting the lines that each word appears on
+when a word appears on a line, the word's number is added
+this should be fun
+or will it be?
